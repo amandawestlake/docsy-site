@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: Amanda Westlake
 description: Porridge temperature assessment &mdash; in the cloud!
 params:
   body_class: td-navbar-links-all-active
@@ -39,6 +39,8 @@ params:
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="white" %}}
+
+Test changes to my website!
 
 Goldydocs provides a single web UI providing visibility into porridge
 temperature, chair size, and bed softness metrics! You can even find out who's
